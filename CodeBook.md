@@ -24,11 +24,11 @@ The script 'run_analysis.R' has 5 stpes following the course project's descripti
  - Finally, the final dataset are generated with average for the features by each subject and each activity (180 rows)
  It is called 'mean_data.txt'.
  
- ###Files and Variables
+###Files and Variables
  
- input files: 'x_train.txt' 'y_train.txt' 'x_test.txt' 'y_test.txt' 'activity_labels.txt' 'features.txt'
+ - input files: 'x_train.txt' 'y_train.txt' 'x_test.txt' 'y_test.txt' 'activity_labels.txt' 'features.txt'
  
- output files/variables:
+ - output files/variables:
                'x_data' 'y_data' 'subject_data'
                'features' (561 features) has columns names for 'x_data' which are used to extract the desired data (66 columns).
                'activity' has activity labels (6 activities) which are used to substitute the numbers in 'y_data'
