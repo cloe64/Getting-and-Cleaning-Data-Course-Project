@@ -19,11 +19,11 @@ The script 'run_analysis.R' has 5 stpes following the course project's descripti
  It is called 'mean_data.txt'.
  
  ###Files and Variables
- -input files 'x_train.txt' 'y_train.txt' 'x_test.txt' 'y_test.txt' 'activity_labels.txt' 'features.txt'
- -output files/variables
+ *input files 'x_train.txt' 'y_train.txt' 'x_test.txt' 'y_test.txt' 'activity_labels.txt' 'features.txt'
+ *output files/variables
                'x_data' 'y_data' 'subject_data'
-               'features' has columns names for 'x_data' which are used to extract the desired data.
-               'activity' has activity labels which are used to substitute the numbers in 'y_data'
+               'features' (561 features) has columns names for 'x_data' which are used to extract the desired data (66 columns).
+               'activity' has activity labels (6 activities) which are used to substitute the numbers in 'y_data'
                'data' contains the all data
                'mean_data.txt' has average values by 'ddply()' of plyr package with 'colMeans' function
  
