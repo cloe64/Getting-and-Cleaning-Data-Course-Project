@@ -22,7 +22,7 @@ The script 'run_analysis.R' has 5 stpes following the course project's descripti
  - The x/y/subject datas are merged into the whole data.
  
  - Finally, the final dataset are generated with average for the features by each subject and each activity (180 rows)
- It is called 'mean_data.txt'.
+ It is called 'mean_data.txt' "(180 rows).
  
 ###Files and Variables
  
