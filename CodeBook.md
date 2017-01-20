@@ -2,11 +2,11 @@
 
 WEN CHE
 
-#Description
+Description
 
 Varibles, the data and extra transformation are listed for this project.
 
-#Details
+Details
 
 The script 'run_analysis.R' has 5 stpes following the course project's descriptions.
  
@@ -24,7 +24,7 @@ The script 'run_analysis.R' has 5 stpes following the course project's descripti
  Finally, the final dataset are generated with average for the features by each subject and each activity (180 rows)
  It is called 'mean_data.txt'.
  
- #Files and Variables
+ Files and Variables
  
  input files 'x_train.txt' 'y_train.txt' 'x_test.txt' 'y_test.txt' 'activity_labels.txt' 'features.txt'
  
